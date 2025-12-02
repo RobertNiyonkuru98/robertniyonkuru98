@@ -39,7 +39,7 @@ Software Engineering Student | Aspiring Cybersecurity & Backend Developer
 
 ---
 
-### Pinned Repositories  
+<!--### Pinned Repositories  
 <p align="center">
   <a href="https://github.com/RobertNiyonkuru98/Python-programming">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobertNiyonkuru98&repo=Python-programming&theme=tokyonight" />
@@ -51,14 +51,14 @@ Software Engineering Student | Aspiring Cybersecurity & Backend Developer
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobertNiyonkuru98&repo=FrontEnd-Development&theme=tokyonight" />
   </a>
 </p>
-
+-->
 ---
 
 ### GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RobertNiyonkuru98&show_icons=true&theme=tokyonight" />
+  <! --<img src="https://github-readme-stats.vercel.app/api?username=RobertNiyonkuru98&show_icons=true&theme=tokyonight&v=1" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RobertNiyonkuru98&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertNiyonkuru98&layout=compact&theme=tokyonight" />
+  <! --<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertNiyonkuru98&layout=compact&theme=tokyonight" />
 </p>
 
 ---
